@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "847390327320",
+    "firebase_url": "https://cobafirebase-ec75b.firebaseio.com",
+    "project_id": "cobafirebase-ec75b",
+    "storage_bucket": "cobafirebase-ec75b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847390327320:android:f9caf89fd8f94b33",
+        "android_client_info": {
+          "package_name": "com.companies.lte.cobafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847390327320-1vbcj4mgp264q7ptu2frns3u7fsq0lo3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companies.lte.cobafirebase",
+            "certificate_hash": "b82f98336ea482718c92b51c04d269de1e7e4a03"
+          }
+        },
+        {
+          "client_id": "847390327320-o2iqde21dkq1tpaa6j1rg28nd9f3kii5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP0cbjqvThoI2DBB0ClqGQvFw4wyaCGH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847390327320-o2iqde21dkq1tpaa6j1rg28nd9f3kii5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
